@@ -15,6 +15,9 @@
 
 
 @property (nonatomic) NSInteger value;
+
+
+
 @property (nonatomic, retain) UIFont *font;
 @property (nonatomic, retain) NSString *text;
 
